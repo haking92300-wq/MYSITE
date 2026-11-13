@@ -1,0 +1,6 @@
+{
+  "name": "Atheer",
+  "description": "Atheer — Luxury computer and gaming accessories storefront featuring mechanical keyboards, mice, headphones, monitors, gaming gear, and computer supplies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
